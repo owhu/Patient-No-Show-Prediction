@@ -52,14 +52,14 @@ The visualization demonstrates a consistent increase in no-show rates as appoint
 ## Business Recommendations
 
 ### Optimize Scheduling Windows
-Where operationally feasible, prioritize shorter scheduling windows for routine appointments to capture higher-intent patients and reduce missed visits.
+Where operationally feasible, prioritize shorter scheduling windows for routine appointments to reduce missed visits.
 ### Enhance Long-Lead Appointment Outreach
 Implement multi-touch reminder campaigns for appointments scheduled more than two weeks in advance, including confirmation requests at 7-day, 3-day, and 24-hour intervals.
 ### Develop Predictive Scheduling Models
 Use historical no-show probabilities to inform strategic overbooking policies for high-risk appointment slots and improve overall provider utilization.
 
 ## Conclusion
-This project demonstrates how feature engineering and exploratory data analysis can uncover operational bottlenecks hidden within large healthcare datasets.
+This project demonstrates how exploratory data analysis can uncover operational bottlenecks hidden within large healthcare datasets.
 By identifying appointment lead time as the primary driver of no-show behavior, the analysis provides a practical framework for improving clinic utilization, reducing wasted capacity, and enhancing patient access to care.
 
 
